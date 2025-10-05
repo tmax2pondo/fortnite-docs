@@ -4,3 +4,4 @@ Summarize velocity trend
 Write press release draft
 Update infra diagram
 Summarize employee feedback
+Investigate error patterns
