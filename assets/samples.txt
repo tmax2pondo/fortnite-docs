@@ -1,2 +1,3 @@
 Draft roadmap sketch
 Draft integration plan
+Summarize journalist list
