@@ -1,1 +1,1 @@
-Update fleet schedule
+Summarize deployment logs
