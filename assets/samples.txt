@@ -4,3 +4,4 @@ Check ISO documents
 Log strategic initiatives
 Plan oncall shifts
 Prepare status email
+Record treasury notes
