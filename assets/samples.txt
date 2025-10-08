@@ -6,3 +6,4 @@ Record compliance status
 Draft integration plan
 Note training needs
 Review monitoring setup
+Improve logging format
