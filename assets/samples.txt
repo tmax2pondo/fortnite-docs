@@ -10,3 +10,4 @@ Prepare status email
 Outline documentation gaps
 Record survey highlights
 Prepare hiring plan
+Record blue-green notes
