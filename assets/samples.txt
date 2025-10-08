@@ -1,8 +1,1 @@
-Summarize deployment tests
-Record budget estimates
-Simplify configuration
-Update P&L sheet
-List cluster configs
-Draft consent policy
-Note reorder points
-Draft exploration notes
+Summarize ML metrics
