@@ -1,2 +1,3 @@
 Review logo sketches
 Update release notes
+Check dependencies for updates
