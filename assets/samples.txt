@@ -1,3 +1,1 @@
-Research best practices
-Note training epochs
-Update status of tasks
+Adjust retry logic
