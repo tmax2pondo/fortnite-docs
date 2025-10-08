@@ -1,2 +1,1 @@
-Record automation scripts
-Check burndown chart
+Record engagement stats
