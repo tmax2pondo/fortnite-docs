@@ -1,11 +1,1 @@
-Note conference topics
-Record license info
-Plan resource allocation
-List hypothesis tests
-Summarize KPIs
-Draft tuning plan
-Collect metrics for dashboard
-Summarize employee feedback
-Draft canary rollout
-Note trending topics
-Schedule maintenance window
+Draft roadmap sketch
