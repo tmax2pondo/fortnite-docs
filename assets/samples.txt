@@ -4,3 +4,4 @@ Note configuration changes
 Note customer churn
 Review performance budgets
 List influencer mentions
+Draft retro notes
