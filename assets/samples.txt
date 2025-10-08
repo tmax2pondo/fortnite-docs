@@ -1,5 +1,1 @@
-Review revenue data
-List booth designs
-Record volunteer names
-Review code for optimization
-Record conversion data
+Draft mockup notes
