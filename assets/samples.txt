@@ -12,3 +12,4 @@ Check shipment status
 Record feedback cycle
 Summarize velocity trend
 Note legal risks
+Review cost savings
