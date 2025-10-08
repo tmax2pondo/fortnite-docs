@@ -2,3 +2,4 @@ Summarize ML metrics
 Draft sales strategy
 Plan cashflow forecast
 Document hotfix steps
+Note DNS changes
