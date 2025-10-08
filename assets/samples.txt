@@ -6,3 +6,4 @@ Record stock counts
 Check localization files
 Update AUC results
 List cluster configs
+Record NPS score
