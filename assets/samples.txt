@@ -25,3 +25,4 @@ Update threat model
 Prepare A/B test plan
 List cluster configs
 Draft social post plan
+Record event calendar
