@@ -17,3 +17,4 @@ List resource needs
 Note deprecation warnings
 Update ad creatives
 Draft marketing blurb
+Summarize responsive fixes
