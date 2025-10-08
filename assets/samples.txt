@@ -2,3 +2,4 @@ Investigate error patterns
 Note configuration changes
 Update test matrix
 Note configuration changes
+Update ad creatives
