@@ -1,6 +1,1 @@
-Draft ensemble plan
-Summarize SIEM setup
-Log mitigation steps
-Record automation scripts
-Note press mentions
-Experiment with prototypes
+Record OKR sync
