@@ -6,3 +6,4 @@ Review performance budgets
 List influencer mentions
 Draft retro notes
 List banking contacts
+Note GDPR tasks
