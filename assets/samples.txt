@@ -7,3 +7,4 @@ Summarize product goals
 Prepare presentation slides
 Record certificate renewals
 Draft cloud budget
+Record validation scores
