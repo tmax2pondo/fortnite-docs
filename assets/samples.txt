@@ -1,3 +1,1 @@
-Summarize permission gaps
-Log daily progress
-Note accessibility gaps
+Update fleet schedule
