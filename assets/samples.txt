@@ -5,3 +5,4 @@ Update P&L sheet
 List cluster configs
 Draft consent policy
 Note reorder points
+Draft exploration notes
