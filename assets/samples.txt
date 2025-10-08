@@ -1,3 +1,4 @@
 Note training epochs
 Summarize rollout success
 Draft partnership ideas
+Note audit trail
