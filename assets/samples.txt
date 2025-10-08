@@ -1,1 +1,1 @@
-Refine backlog items
+Note training epochs
