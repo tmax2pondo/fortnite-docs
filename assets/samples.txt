@@ -6,3 +6,4 @@ Summarize KPIs
 Draft tuning plan
 Collect metrics for dashboard
 Summarize employee feedback
+Draft canary rollout
