@@ -22,3 +22,4 @@ List booth designs
 Summarize responsive fixes
 Validate new assumptions
 Update threat model
+Prepare A/B test plan
