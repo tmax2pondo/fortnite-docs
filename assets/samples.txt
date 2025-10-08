@@ -1,5 +1,1 @@
-Adjust retry logic
-Draft leadership notes
-Note trend shifts
-Summarize regularization notes
-Record event calendar
+Note conference topics
