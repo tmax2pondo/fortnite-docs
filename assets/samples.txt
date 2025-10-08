@@ -1,2 +1,3 @@
 Note shadow test
 Record prize details
+Summarize trade risks
