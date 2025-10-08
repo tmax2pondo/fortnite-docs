@@ -1,2 +1,3 @@
 Summarize deployment tests
 Record budget estimates
+Simplify configuration
