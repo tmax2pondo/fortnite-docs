@@ -16,3 +16,4 @@ Note decision log
 Document retry policy
 Update deletion logs
 Record blue-green notes
+Draft sales strategy
