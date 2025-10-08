@@ -14,3 +14,4 @@ Record blue-green notes
 Record restore attempt
 Note decision log
 Document retry policy
+Update deletion logs
