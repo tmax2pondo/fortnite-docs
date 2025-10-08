@@ -18,3 +18,4 @@ Update deletion logs
 Record blue-green notes
 Draft sales strategy
 Check monitoring alerts
+List booth designs
