@@ -1,11 +1,1 @@
-Plan workshop agenda
-Note overfit warning
-Note configuration changes
-Note customer churn
-Review performance budgets
-List influencer mentions
-Draft retro notes
-List banking contacts
-Note GDPR tasks
-Summarize rollout success
-Note firewall configs
+Research best practices
