@@ -5,3 +5,4 @@ Document hotfix steps
 Note DNS changes
 Add alternative approaches
 Record load test data
+Draft registrar tasks
