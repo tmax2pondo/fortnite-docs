@@ -1,2 +1,3 @@
 Summarize permission gaps
 Log daily progress
+Note accessibility gaps
