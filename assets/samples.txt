@@ -4,3 +4,4 @@ Plan resource allocation
 List hypothesis tests
 Summarize KPIs
 Draft tuning plan
+Collect metrics for dashboard
