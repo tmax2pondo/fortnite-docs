@@ -1,1 +1,2 @@
 Research best practices
+Note training epochs
