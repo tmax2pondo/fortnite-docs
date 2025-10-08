@@ -7,3 +7,4 @@ Draft integration plan
 Note training needs
 Review monitoring setup
 Improve logging format
+Note overfit warning
