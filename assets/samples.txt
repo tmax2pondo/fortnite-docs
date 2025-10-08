@@ -1,2 +1,3 @@
 Draft ensemble plan
 Summarize SIEM setup
+Log mitigation steps
