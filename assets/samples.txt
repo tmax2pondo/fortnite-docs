@@ -1,3 +1,1 @@
-Summarize exec summary
-Record downtime reports
-Update logging sinks
+Summarize DDoS tests
