@@ -18,3 +18,4 @@ Note deprecation warnings
 Update ad creatives
 Draft marketing blurb
 Summarize responsive fixes
+Evaluate automation options
