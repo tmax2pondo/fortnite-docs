@@ -8,3 +8,4 @@ Draft retro notes
 List banking contacts
 Note GDPR tasks
 Summarize rollout success
+Note firewall configs
