@@ -4,3 +4,4 @@ Record cache purge steps
 List governance items
 Record stock counts
 Check localization files
+Update AUC results
