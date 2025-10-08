@@ -1,6 +1,1 @@
-Recheck security notes
-Record acceptance tests
-Update poll results
-List cluster configs
-Record benchmark outcomes
-Track configuration drift
+Plan career paths
