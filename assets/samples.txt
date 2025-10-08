@@ -1,1 +1,2 @@
 Summarize scaling notes
+Review pod limits
