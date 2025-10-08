@@ -20,3 +20,4 @@ Draft sales strategy
 Check monitoring alerts
 List booth designs
 Summarize responsive fixes
+Validate new assumptions
