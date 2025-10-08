@@ -1,1 +1,2 @@
 Investigate error patterns
+Note configuration changes
