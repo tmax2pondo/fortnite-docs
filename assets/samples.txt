@@ -1,2 +1,3 @@
 Plan workshop agenda
 Note overfit warning
+Note configuration changes
