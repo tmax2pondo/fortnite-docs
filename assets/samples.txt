@@ -21,3 +21,4 @@ Check monitoring alerts
 List booth designs
 Summarize responsive fixes
 Validate new assumptions
+Update threat model
