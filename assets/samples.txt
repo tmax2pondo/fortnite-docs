@@ -2,3 +2,4 @@ Plan workshop agenda
 Note overfit warning
 Note configuration changes
 Note customer churn
+Review performance budgets
