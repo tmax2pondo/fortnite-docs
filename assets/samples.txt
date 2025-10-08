@@ -7,3 +7,4 @@ Capture monitoring gaps
 Note innovation backlog
 Summarize content audit
 Record prototype feedback
+Summarize call notes
