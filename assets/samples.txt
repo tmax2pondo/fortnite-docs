@@ -9,3 +9,4 @@ Review monitoring setup
 Improve logging format
 Note overfit warning
 Summarize funnel metrics
+Analyze customer data
