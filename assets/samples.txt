@@ -16,3 +16,4 @@ Review cost savings
 List resource needs
 Note deprecation warnings
 Update ad creatives
+Draft marketing blurb
