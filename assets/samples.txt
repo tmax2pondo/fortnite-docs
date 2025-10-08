@@ -4,3 +4,4 @@ Update test matrix
 Note configuration changes
 Update ad creatives
 List password policies
+Summarize deployment logs
