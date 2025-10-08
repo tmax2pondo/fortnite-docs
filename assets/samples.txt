@@ -1,9 +1,1 @@
-Update AUC results
-Capture UI feedback
-Summarize security audit
-Update pricing table
-Update release notes
-Check burndown chart
-Record acceptance tests
-Document retry policy
-Summarize thank-you notes
+Note shadow test
