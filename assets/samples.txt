@@ -1,3 +1,4 @@
 Note conference topics
 Record license info
 Plan resource allocation
+List hypothesis tests
