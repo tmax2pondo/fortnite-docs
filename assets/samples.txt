@@ -3,3 +3,4 @@ Record acceptance tests
 Update poll results
 List cluster configs
 Record benchmark outcomes
+Track configuration drift
