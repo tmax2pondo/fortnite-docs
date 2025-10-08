@@ -2,3 +2,4 @@ Summarize DDoS tests
 Plan capacity increase
 Check ISO documents
 Log strategic initiatives
+Plan oncall shifts
