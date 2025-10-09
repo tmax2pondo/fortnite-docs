@@ -2,3 +2,4 @@ Note interest changes
 Check dependencies for updates
 Draft PR highlights
 Update fleet schedule
+Draft exploration notes
