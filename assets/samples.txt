@@ -8,3 +8,4 @@ Capture retention risks
 Plan rollback procedure
 Record key metrics
 Draft export compliance
+Record license info
