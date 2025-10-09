@@ -3,3 +3,4 @@ Draft roadmap sketch
 Evaluate automation options
 Note configuration changes
 Summarize anonymization steps
+Plan deployment strategy
