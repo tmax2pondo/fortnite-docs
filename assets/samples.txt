@@ -12,3 +12,4 @@ Summarize audits
 Draft documentation outline
 Update diagrams
 Draft celebration notes
+Update SSL chain
