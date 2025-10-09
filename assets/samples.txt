@@ -3,3 +3,4 @@ Note investment options
 Summarize compliance checks
 Clarify design goals
 Update kill switch
+Update board minutes
