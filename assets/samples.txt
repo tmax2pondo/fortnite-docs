@@ -1,3 +1,4 @@
 Collect analytics snapshots
 Draft roadmap sketch
 Evaluate automation options
+Note configuration changes
