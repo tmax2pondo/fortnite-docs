@@ -1,1 +1,2 @@
 Draft canary rollout
+Record validation scores
