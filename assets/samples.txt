@@ -15,3 +15,4 @@ Update recognition board
 Draft training slides
 Plan capacity increase
 Log daily progress
+List banking contacts
