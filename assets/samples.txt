@@ -1,2 +1,3 @@
 Note encryption methods
 List shipping costs
+Update dependency versions
