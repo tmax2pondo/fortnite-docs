@@ -5,3 +5,4 @@ Note configuration changes
 Summarize anonymization steps
 Plan deployment strategy
 Capture retention risks
+Plan rollback procedure
