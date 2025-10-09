@@ -3,3 +3,4 @@ Schedule maintenance window
 Record steering notes
 Capture moodboard items
 Update session rules
+Fix minor issues in workflow
