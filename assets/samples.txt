@@ -11,3 +11,4 @@ Summarize call notes
 Summarize audits
 Draft documentation outline
 Update diagrams
+Draft celebration notes
