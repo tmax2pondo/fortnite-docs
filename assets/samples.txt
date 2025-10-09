@@ -9,3 +9,4 @@ Draft weekly digest
 Review SLA metrics
 Update P&L sheet
 Write installation notes
+Summarize feedback loops
