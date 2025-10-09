@@ -2,3 +2,4 @@ Prepare roadmap for Q1
 List technical debts
 Update style guide
 Draft container images
+Draft staging plan
