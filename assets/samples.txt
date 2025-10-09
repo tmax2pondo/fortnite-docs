@@ -1,1 +1,2 @@
 Summarize SIEM setup
+Note reorder points
