@@ -5,3 +5,4 @@ Summarize call notes
 Check build artifacts
 List DR procedures
 Summarize QA audits
+Record certification status
