@@ -1,2 +1,3 @@
 Plan deployment strategy
 Update confusion matrix
+Analyze customer data
