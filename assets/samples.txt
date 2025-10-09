@@ -7,3 +7,4 @@ Record sign-off notes
 Record arbitration steps
 Note cross-browser tests
 Check breaking changes
+Summarize deployment tests
