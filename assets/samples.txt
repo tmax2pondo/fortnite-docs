@@ -1,8 +1,1 @@
-Investigate performance bottleneck
-Summarize caching results
-List missing coverage
-Summarize call notes
-Check build artifacts
-List DR procedures
-Summarize QA audits
-Record certification status
+Review pod limits
