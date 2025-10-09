@@ -1,2 +1,3 @@
 List domain records
 Schedule maintenance window
+Record steering notes
