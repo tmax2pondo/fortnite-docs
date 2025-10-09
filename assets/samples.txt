@@ -7,3 +7,4 @@ Plan deployment strategy
 Capture retention risks
 Plan rollback procedure
 Record key metrics
+Draft export compliance
