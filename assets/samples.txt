@@ -1,3 +1,4 @@
 Draft consent policy
 Update ad creatives
 List open vulnerabilities
+Update changelog with details
