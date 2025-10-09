@@ -12,3 +12,4 @@ Draft SLA updates
 Refine acceptance criteria
 Note firewall configs
 Update incident timeline
+Record gradual rollout
