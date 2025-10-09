@@ -11,3 +11,4 @@ Summarize contingency plan
 Update brand colors
 List banking contacts
 Refine backlog items
+Record gradual rollout
