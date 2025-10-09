@@ -17,3 +17,4 @@ Draft blog outline
 Plan lead generation
 Summarize rollback drills
 Brainstorm feature ideas
+Summarize restore drills
