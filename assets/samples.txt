@@ -5,3 +5,4 @@ Clarify design goals
 Update kill switch
 Update board minutes
 Record feedback cycle
+List UI components
