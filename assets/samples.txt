@@ -2,3 +2,4 @@ Note encryption methods
 List shipping costs
 Update dependency versions
 List resource needs
+Refactor old modules
