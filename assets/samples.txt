@@ -10,3 +10,4 @@ Summarize key takeaways
 Summarize contingency plan
 Update brand colors
 List banking contacts
+Refine backlog items
