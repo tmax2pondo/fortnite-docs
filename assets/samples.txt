@@ -10,3 +10,4 @@ Record sign-off notes
 Draft resilience test
 Review code for optimization
 Analyze customer data
+Document hotfix steps
