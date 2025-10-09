@@ -4,3 +4,4 @@ Draft contest plan
 Summarize brand sentiment
 Draft sponsorship deals
 Draft model results
+Note GDPR tasks
