@@ -9,3 +9,4 @@ Plan rollback procedure
 Record key metrics
 Draft export compliance
 Record license info
+Note latency spikes
