@@ -9,3 +9,4 @@ Update load balancer notes
 Investigate performance bottleneck
 Recheck boundary cases
 Record steering notes
+Review financial risks
