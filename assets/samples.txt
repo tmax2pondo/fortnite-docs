@@ -13,3 +13,4 @@ Analyze customer data
 Document hotfix steps
 Update recognition board
 Draft training slides
+Plan capacity increase
