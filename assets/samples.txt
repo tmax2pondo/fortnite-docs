@@ -3,3 +3,4 @@ Note reorder points
 Update deletion logs
 Summarize rollout success
 Note coverage scores
+Update language packs
