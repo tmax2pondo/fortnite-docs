@@ -9,3 +9,4 @@ Summarize litigation notes
 Add alternative approaches
 Update portfolio deck
 Draft sponsorship deals
+Plan deployment strategy
