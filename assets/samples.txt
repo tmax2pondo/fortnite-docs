@@ -6,3 +6,4 @@ Draft exploration notes
 Update brand colors
 Draft pseudonymization plan
 Draft root cause notes
+Capture monitoring gaps
