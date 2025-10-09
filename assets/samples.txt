@@ -1,2 +1,3 @@
 Draft experiment results
 Summarize giveaway notes
+Record validation scores
