@@ -7,3 +7,4 @@ Document retry policy
 Refactor helper functions
 Draft tuning plan
 Draft registrar tasks
+Update redundancy notes
