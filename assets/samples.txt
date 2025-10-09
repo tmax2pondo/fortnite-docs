@@ -8,3 +8,4 @@ Draft pseudonymization plan
 Draft root cause notes
 Capture monitoring gaps
 Draft feature proposal
+List domain records
