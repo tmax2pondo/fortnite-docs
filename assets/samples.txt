@@ -4,3 +4,4 @@ Note decision log
 Note interest changes
 Brainstorm feature ideas
 Update validation plan
+Summarize compliance checks
