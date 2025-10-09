@@ -1,3 +1,4 @@
 Review lessons learned
 Plan deployment strategy
 Log daily progress
+Note dataset sources
