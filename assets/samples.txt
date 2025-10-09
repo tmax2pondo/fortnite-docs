@@ -12,3 +12,4 @@ Draft sponsorship deals
 Plan deployment strategy
 Collect analytics snapshots
 Note winner list
+Note winner list
