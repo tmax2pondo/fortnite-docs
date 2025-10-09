@@ -7,3 +7,4 @@ Update language packs
 Check container configs
 Draft contest plan
 Check delivery follow-up
+Record auth logs
