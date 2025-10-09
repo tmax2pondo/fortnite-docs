@@ -9,3 +9,4 @@ Draft contest plan
 Check delivery follow-up
 Record auth logs
 Record validation scores
+Capture retention risks
