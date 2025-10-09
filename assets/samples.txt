@@ -5,3 +5,4 @@ Update role matrix
 Draft recovery notes
 Draft forum summary
 Track library updates
+Draft weekly digest
