@@ -1,12 +1,1 @@
-Collect analytics snapshots
-Draft roadmap sketch
-Evaluate automation options
-Note configuration changes
-Summarize anonymization steps
-Plan deployment strategy
-Capture retention risks
-Plan rollback procedure
-Record key metrics
-Draft export compliance
-Record license info
-Note latency spikes
+Refactor old modules
