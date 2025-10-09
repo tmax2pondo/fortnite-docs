@@ -8,3 +8,4 @@ Draft mitigation guide
 Note conference topics
 Record sign-off notes
 Draft resilience test
+Review code for optimization
