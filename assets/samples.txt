@@ -8,3 +8,4 @@ Track library updates
 Draft weekly digest
 Review SLA metrics
 Update P&L sheet
+Write installation notes
