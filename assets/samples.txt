@@ -1,3 +1,4 @@
 Summarize version bumps
 Note investment options
 Summarize compliance checks
+Clarify design goals
