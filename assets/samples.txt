@@ -3,3 +3,4 @@ Update confusion matrix
 Analyze customer data
 Summarize QA audits
 Update diagrams
+Document retry policy
