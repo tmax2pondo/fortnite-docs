@@ -2,3 +2,4 @@ Record HR initiatives
 Record stakeholder feedback
 Plan workshop agenda
 Research best practices
+Note deprecated functions
