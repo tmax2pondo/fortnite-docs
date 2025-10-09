@@ -6,3 +6,4 @@ Note coverage scores
 Update language packs
 Check container configs
 Draft contest plan
+Check delivery follow-up
