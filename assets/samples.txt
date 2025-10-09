@@ -16,3 +16,4 @@ Review revenue data
 Note delivery issues
 Record engagement stats
 Update session rules
+Log strategic initiatives
