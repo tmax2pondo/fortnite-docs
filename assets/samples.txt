@@ -11,3 +11,4 @@ Record auth logs
 Record validation scores
 Capture retention risks
 Update ad creatives
+Log post-launch issues
