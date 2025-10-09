@@ -11,3 +11,4 @@ Update portfolio deck
 Draft sponsorship deals
 Plan deployment strategy
 Collect analytics snapshots
+Note winner list
