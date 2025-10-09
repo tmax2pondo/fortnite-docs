@@ -8,3 +8,4 @@ Prepare closure report
 Summarize funnel metrics
 Summarize key takeaways
 Summarize contingency plan
+Update brand colors
