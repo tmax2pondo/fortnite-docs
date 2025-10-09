@@ -6,3 +6,4 @@ List booth designs
 Draft NDA template
 Draft escalation doc
 Verify API endpoints
+List known limitations
