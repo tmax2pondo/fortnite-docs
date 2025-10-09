@@ -7,3 +7,4 @@ Draft detection rules
 Draft retro notes
 Log board decisions
 Evaluate automation options
+Summarize QA audits
