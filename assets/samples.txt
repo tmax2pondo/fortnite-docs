@@ -1,8 +1,1 @@
-Draft canary rollout
-Record validation scores
-Analyze user feedback
-Write outcome summary
-Summarize industry news
-Update test matrix
-Note reorder points
-Draft escalation doc
+Update legal references
