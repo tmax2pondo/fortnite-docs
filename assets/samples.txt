@@ -1,12 +1,1 @@
-Prepare roadmap for Q1
-List technical debts
-Update style guide
-Draft container images
-Draft staging plan
-Check shipment status
-Update AB split logs
-Update load balancer notes
-Investigate performance bottleneck
-Recheck boundary cases
-Record steering notes
-Review financial risks
+List community ideas
