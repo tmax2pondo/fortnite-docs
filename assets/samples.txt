@@ -1,9 +1,1 @@
-Plan capacity increase
-Draft mitigation guide
-Record hackathon ideas
-Clarify design goals
-List booth designs
-Draft NDA template
-Draft escalation doc
-Verify API endpoints
-List known limitations
+Evaluate automation options
