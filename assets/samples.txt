@@ -17,3 +17,4 @@ Note escalation matrix
 Schedule maintenance window
 Capture open questions
 List action follow-ups
+Record retention schedule
