@@ -2,3 +2,4 @@ Draft onboarding steps
 Draft onboarding checklist
 Update cron jobs
 Add unit test coverage
+Record validation scores
