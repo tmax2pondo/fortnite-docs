@@ -1,12 +1,1 @@
-Note interest changes
-Check dependencies for updates
-Draft PR highlights
-Update fleet schedule
-Draft exploration notes
-Update brand colors
-Draft pseudonymization plan
-Draft root cause notes
-Capture monitoring gaps
-Draft feature proposal
 List domain records
-Summarize QA audits
