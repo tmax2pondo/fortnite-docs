@@ -4,3 +4,4 @@ Record hackathon ideas
 Clarify design goals
 List booth designs
 Draft NDA template
+Draft escalation doc
