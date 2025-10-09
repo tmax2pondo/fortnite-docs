@@ -1,7 +1,1 @@
-Review lessons learned
-Plan deployment strategy
-Log daily progress
-Note dataset sources
-Draft packaging guide
-Note funding options
-Draft routing policies
+Update pricing table
