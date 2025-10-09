@@ -1,1 +1,2 @@
 Review lessons learned
+Plan deployment strategy
