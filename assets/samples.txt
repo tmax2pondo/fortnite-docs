@@ -1,1 +1,2 @@
 Update mitigation table
+Add alternative approaches
