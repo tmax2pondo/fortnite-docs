@@ -3,3 +3,4 @@ List technical debts
 Update style guide
 Draft container images
 Draft staging plan
+Check shipment status
