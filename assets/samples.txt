@@ -2,3 +2,4 @@ Update cross-team docs
 Plan lead generation
 Update status of tasks
 Track training sessions
+Record interview notes
