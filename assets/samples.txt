@@ -1,5 +1,1 @@
-Update pricing table
-Update migration scripts
-Draft onboarding steps
-Update ad creatives
-Update reproducibility logs
+Collect analytics snapshots
