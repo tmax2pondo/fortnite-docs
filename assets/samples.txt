@@ -3,3 +3,4 @@ Draft onboarding checklist
 Update cron jobs
 Add unit test coverage
 Record validation scores
+Record sign-off notes
