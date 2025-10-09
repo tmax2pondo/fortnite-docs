@@ -1,4 +1,1 @@
-Draft packaging guide
-Draft escalation doc
-Review glossary terms
-Review SLA metrics
+Note encryption methods
