@@ -2,3 +2,4 @@ Draft canary rollout
 Record validation scores
 Analyze user feedback
 Write outcome summary
+Summarize industry news
