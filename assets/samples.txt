@@ -1,10 +1,1 @@
-Plan deployment strategy
-Update confusion matrix
-Analyze customer data
-Summarize QA audits
-Update diagrams
-Document retry policy
-Refactor helper functions
-Draft tuning plan
-Draft registrar tasks
-Update redundancy notes
+Update contact list
