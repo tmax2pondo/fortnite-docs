@@ -4,3 +4,4 @@ Log daily progress
 Note dataset sources
 Draft packaging guide
 Note funding options
+Draft routing policies
