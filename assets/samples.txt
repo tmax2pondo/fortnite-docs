@@ -5,3 +5,4 @@ Research best practices
 Note deprecated functions
 Draft root cause notes
 Review revenue data
+Check burndown chart
