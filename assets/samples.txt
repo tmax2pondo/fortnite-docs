@@ -5,3 +5,4 @@ Capture moodboard items
 Update session rules
 Fix minor issues in workflow
 Check burndown chart
+Summarize litigation notes
