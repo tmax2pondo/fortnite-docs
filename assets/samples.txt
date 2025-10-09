@@ -17,3 +17,4 @@ Update plan for next release
 Note integrity checks
 Plan website refresh
 Recheck boundary cases
+Draft consent policy
