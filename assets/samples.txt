@@ -1,3 +1,4 @@
 Update mitigation table
 Add alternative approaches
 Review logo sketches
+Record interview notes
