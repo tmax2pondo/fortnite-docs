@@ -3,3 +3,4 @@ Draft weekly digest
 Draft sponsorship deals
 Check clickthrough rate
 Summarize ROC data
+Summarize testing report
