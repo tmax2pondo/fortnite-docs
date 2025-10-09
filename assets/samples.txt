@@ -5,3 +5,4 @@ Record interview notes
 Note blocker list
 Draft detection rules
 Draft retro notes
+Log board decisions
