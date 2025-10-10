@@ -2,3 +2,4 @@ Plan team retro
 Update logging sinks
 List DR procedures
 Plan website refresh
+Plan career paths
