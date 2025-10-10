@@ -8,3 +8,4 @@ Draft upsell campaign
 Summarize compliance checks
 Draft integration plan
 Update poll results
+Draft PR highlights
