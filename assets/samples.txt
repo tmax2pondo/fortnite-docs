@@ -7,3 +7,4 @@ Record prize details
 Update tracking board
 Draft training slides
 Capture SWOT notes
+Review code for optimization
