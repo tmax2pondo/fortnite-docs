@@ -19,3 +19,4 @@ Note identity checks
 Update device matrix
 Record key metrics
 Review logo sketches
+Summarize market trends
