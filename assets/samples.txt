@@ -21,3 +21,4 @@ Prepare presentation slides
 List password policies
 Summarize KPIs
 Draft pseudonymization plan
+Write summary report
