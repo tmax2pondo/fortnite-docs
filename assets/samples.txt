@@ -12,3 +12,4 @@ Draft PR highlights
 Summarize velocity trend
 Update dependency versions
 Create new test cases
+Record labeling guide
