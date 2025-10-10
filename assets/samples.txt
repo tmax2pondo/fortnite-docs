@@ -4,3 +4,4 @@ Analyze customer data
 Draft upsell campaign
 Check delivery follow-up
 Record F1 score
+Update API limits
