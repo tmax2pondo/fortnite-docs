@@ -19,3 +19,4 @@ Update session rules
 Log strategic initiatives
 Prepare presentation slides
 List password policies
+Summarize KPIs
