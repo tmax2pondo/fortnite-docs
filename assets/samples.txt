@@ -1,2 +1,1 @@
-Note press mentions
-Update rollback notes
+Draft recovery notes
