@@ -9,3 +9,4 @@ Record stock counts
 Summarize testing report
 Check clickthrough rate
 Capture monitoring gaps
+Draft compliance review
