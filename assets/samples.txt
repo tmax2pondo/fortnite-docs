@@ -10,3 +10,4 @@ Draft integration plan
 Update poll results
 Draft PR highlights
 Summarize velocity trend
+Update dependency versions
