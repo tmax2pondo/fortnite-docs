@@ -6,3 +6,4 @@ Plan career paths
 Record prize details
 Update tracking board
 Draft training slides
+Capture SWOT notes
