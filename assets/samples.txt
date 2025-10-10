@@ -3,3 +3,4 @@ Draft blog outline
 Update skill matrix
 Draft resilience test
 Record shift handovers
+Summarize opt-out stats
