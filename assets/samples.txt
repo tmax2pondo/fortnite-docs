@@ -3,3 +3,4 @@ Record cache purge steps
 Update legal references
 Prepare closure report
 Check export rules
+List cluster configs
