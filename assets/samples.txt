@@ -14,3 +14,4 @@ Update dependency versions
 Create new test cases
 Record labeling guide
 Review pod limits
+Update logging sinks
