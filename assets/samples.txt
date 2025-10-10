@@ -29,3 +29,4 @@ List DR procedures
 Note funding options
 Plan deployment strategy
 Check container configs
+Record user stories
