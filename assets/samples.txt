@@ -6,3 +6,4 @@ Record shift handovers
 Summarize opt-out stats
 Draft SLA updates
 Record stock counts
+Summarize testing report
