@@ -1,12 +1,1 @@
-Prepare A/B test plan
-Record cache purge steps
-Update legal references
-Prepare closure report
-Check export rules
-List cluster configs
-Draft style samples
-Document hotfix steps
-Update skill matrix
-Review caching strategy
-Summarize security audit
-Record user stories
+List hypothesis tests
