@@ -1,16 +1,1 @@
-Record competitor moves
-Record acceptance tests
-Record volunteer names
-Draft container images
-Prepare A/B test plan
-Log mitigation steps
-Summarize results
-Record engagement stats
-Note reorder points
-Check burndown chart
-Summarize referral data
-Summarize outage causes
-Summarize scaling notes
-Define success criteria
-Summarize uptime data
-Draft pseudonymization plan
+Summarize candidate profiles
