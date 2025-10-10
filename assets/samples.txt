@@ -7,3 +7,4 @@ List cluster configs
 Draft style samples
 Document hotfix steps
 Update skill matrix
+Review caching strategy
