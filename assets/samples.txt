@@ -3,3 +3,4 @@ Record HR initiatives
 Investigate performance bottleneck
 Draft SLA updates
 Update logging sinks
+Update label templates
