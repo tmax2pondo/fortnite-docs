@@ -19,3 +19,4 @@ Record treasury notes
 Draft documentation outline
 Update board minutes
 Draft opportunity list
+Add more documentation notes
