@@ -1,10 +1,1 @@
-Note firewall configs
-Summarize PCI items
-Summarize testing report
-Note customer churn
-Note escalation matrix
-Plan cashflow forecast
-Plan PR campaign
-Review WAF settings
-Summarize launch steps
-Record competitor scans
+Note integrity checks
