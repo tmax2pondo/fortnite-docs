@@ -2,3 +2,4 @@ Summarize candidate profiles
 Update release notes
 Analyze customer data
 Draft upsell campaign
+Check delivery follow-up
