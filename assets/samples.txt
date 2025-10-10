@@ -1,4 +1,1 @@
-Review performance budgets
-List hypothesis tests
-Note compliance reminders
-Summarize call notes
+Check monitoring alerts
