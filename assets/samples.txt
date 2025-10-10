@@ -9,3 +9,4 @@ Draft training slides
 Capture SWOT notes
 Review code for optimization
 Summarize market trends
+Update infra diagram
