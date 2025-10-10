@@ -3,3 +3,4 @@ Evaluate third-party libs
 Note accessibility gaps
 Summarize outage causes
 Note reorder points
+Summarize journalist list
