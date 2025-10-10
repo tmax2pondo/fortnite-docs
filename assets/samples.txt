@@ -14,3 +14,4 @@ Note audit trail
 Update retention plan
 Summarize quota usage
 Add unit test coverage
+Update changelog with details
