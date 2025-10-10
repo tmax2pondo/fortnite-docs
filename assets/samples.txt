@@ -1,3 +1,4 @@
 Analyze user feedback
 Schedule maintenance window
 List missing coverage
+Draft registrar tasks
