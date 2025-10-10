@@ -1,3 +1,4 @@
 Record competitor moves
 Record acceptance tests
 Record volunteer names
+Draft container images
