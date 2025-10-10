@@ -27,3 +27,4 @@ Draft migration checklist
 Investigate error patterns
 List DR procedures
 Note funding options
+Plan deployment strategy
