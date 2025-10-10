@@ -7,3 +7,4 @@ Summarize responsive fixes
 Check clickthrough rate
 Track training sessions
 Draft reproducibility plan
+Summarize risks identified
