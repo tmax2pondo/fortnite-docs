@@ -4,3 +4,4 @@ Record volunteer names
 Draft container images
 Prepare A/B test plan
 Log mitigation steps
+Summarize results
