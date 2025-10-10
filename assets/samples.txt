@@ -3,3 +3,4 @@ Update kill switch
 Draft mitigation guide
 Audit database schema
 Record prize details
+Start new iteration of the project
