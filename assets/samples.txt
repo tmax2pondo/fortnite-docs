@@ -44,3 +44,4 @@ Collect metrics for dashboard
 Prepare closure report
 Draft container images
 Refine backlog items
+Draft exploration notes
