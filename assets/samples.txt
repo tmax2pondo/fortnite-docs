@@ -1,3 +1,4 @@
 Draft recovery notes
 Draft blog outline
 Update skill matrix
+Draft resilience test
