@@ -11,3 +11,4 @@ Check burndown chart
 Summarize referral data
 Summarize outage causes
 Summarize scaling notes
+Define success criteria
