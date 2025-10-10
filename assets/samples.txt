@@ -1,2 +1,3 @@
 Polish UI interactions
 Log mitigation steps
+List pending approvals
