@@ -30,3 +30,4 @@ Note funding options
 Plan deployment strategy
 Check container configs
 Record user stories
+Note cluster issues
