@@ -3,3 +3,4 @@ List rotation schedule
 Draft mockup notes
 Record CCPA checks
 Draft release checklist
+Record feature votes
