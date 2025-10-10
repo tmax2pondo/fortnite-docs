@@ -1,2 +1,3 @@
 Prepare A/B test plan
 Record cache purge steps
+Update legal references
