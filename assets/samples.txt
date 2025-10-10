@@ -5,3 +5,4 @@ Plan website refresh
 Plan career paths
 Record prize details
 Update tracking board
+Draft training slides
