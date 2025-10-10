@@ -16,3 +16,4 @@ Record labeling guide
 Review pod limits
 Update logging sinks
 Note training epochs
+Summarize top requests
