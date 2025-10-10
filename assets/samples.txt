@@ -4,3 +4,4 @@ Outline documentation gaps
 Draft retro notes
 Record prize details
 Draft staging plan
+Check localization files
