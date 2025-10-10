@@ -20,3 +20,4 @@ Log strategic initiatives
 Prepare presentation slides
 List password policies
 Summarize KPIs
+Draft pseudonymization plan
