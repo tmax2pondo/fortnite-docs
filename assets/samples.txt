@@ -6,3 +6,4 @@ Record prize details
 Draft staging plan
 Check localization files
 Note shadow test
+Note DNS changes
