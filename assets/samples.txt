@@ -20,3 +20,4 @@ Update device matrix
 Record key metrics
 Review logo sketches
 Summarize market trends
+Update infra diagram
