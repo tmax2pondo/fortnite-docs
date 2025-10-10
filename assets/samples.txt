@@ -1,8 +1,1 @@
-Draft appreciation post
-Evaluate third-party libs
-Note accessibility gaps
-Summarize outage causes
-Note reorder points
-Summarize journalist list
-Prepare presentation slides
-Record load test data
+Note decision log
