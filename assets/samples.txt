@@ -3,3 +3,4 @@ Plan resource allocation
 Summarize audits
 Plan rebranding steps
 Draft retro notes
+Summarize responsive fixes
