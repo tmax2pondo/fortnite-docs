@@ -2,3 +2,4 @@ Draft appreciation post
 Evaluate third-party libs
 Note accessibility gaps
 Summarize outage causes
+Note reorder points
