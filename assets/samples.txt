@@ -9,3 +9,4 @@ Record engagement stats
 Note reorder points
 Check burndown chart
 Summarize referral data
+Summarize outage causes
