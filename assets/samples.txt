@@ -1,1 +1,1 @@
-Note integrity checks
+Record validation scores
