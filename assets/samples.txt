@@ -1,4 +1,1 @@
-Capture retention risks
-Update outreach contacts
-Summarize SIEM setup
-Analyze customer data
+Draft recovery notes
