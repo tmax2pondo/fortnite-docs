@@ -24,3 +24,4 @@ Draft pseudonymization plan
 Write summary report
 Draft access review
 Draft migration checklist
+Investigate error patterns
