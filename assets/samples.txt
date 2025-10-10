@@ -2,3 +2,4 @@ Prepare A/B test plan
 Record cache purge steps
 Update legal references
 Prepare closure report
+Check export rules
