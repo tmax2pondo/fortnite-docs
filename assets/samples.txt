@@ -32,3 +32,4 @@ Check container configs
 Record user stories
 Note cluster issues
 Draft marketing blurb
+Note sprint outcome
