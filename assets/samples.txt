@@ -1,2 +1,3 @@
 Plan team retro
 Update logging sinks
+List DR procedures
