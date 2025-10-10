@@ -1,1 +1,2 @@
 Record competitor moves
+Record acceptance tests
