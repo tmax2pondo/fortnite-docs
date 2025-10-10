@@ -7,3 +7,4 @@ Log mitigation steps
 Summarize results
 Record engagement stats
 Note reorder points
+Check burndown chart
