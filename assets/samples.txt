@@ -8,3 +8,4 @@ Check clickthrough rate
 Track training sessions
 Draft reproducibility plan
 Summarize risks identified
+Draft staging plan
