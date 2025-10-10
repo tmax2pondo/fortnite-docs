@@ -13,3 +13,4 @@ Summarize outage causes
 Summarize scaling notes
 Define success criteria
 Summarize uptime data
+Draft pseudonymization plan
