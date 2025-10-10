@@ -2,3 +2,4 @@ Record validation scores
 Plan resource allocation
 Summarize audits
 Plan rebranding steps
+Draft retro notes
