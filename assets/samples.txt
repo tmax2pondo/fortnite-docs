@@ -5,3 +5,4 @@ Prepare closure report
 Check export rules
 List cluster configs
 Draft style samples
+Document hotfix steps
