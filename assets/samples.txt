@@ -6,3 +6,4 @@ Draft release checklist
 Record feature votes
 Draft upsell campaign
 Summarize compliance checks
+Draft integration plan
