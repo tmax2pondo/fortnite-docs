@@ -18,3 +18,4 @@ Update changelog with details
 Note identity checks
 Update device matrix
 Record key metrics
+Review logo sketches
