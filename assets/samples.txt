@@ -34,3 +34,4 @@ Note cluster issues
 Draft marketing blurb
 Note sprint outcome
 Update pager duty notes
+Plan career paths
