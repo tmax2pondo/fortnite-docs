@@ -6,3 +6,4 @@ Prepare A/B test plan
 Log mitigation steps
 Summarize results
 Record engagement stats
+Note reorder points
