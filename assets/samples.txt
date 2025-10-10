@@ -16,3 +16,4 @@ Summarize quota usage
 Add unit test coverage
 Update changelog with details
 Note identity checks
+Update device matrix
