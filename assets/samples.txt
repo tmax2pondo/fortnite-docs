@@ -1,13 +1,1 @@
-List missing coverage
-Summarize deployment tests
-Draft model results
-Update AUC results
-Start new iteration of the project
-Summarize results
-Update board minutes
-Summarize referral data
-Review lessons learned
-Draft emergency contacts
-Note recall issues
-Capture UI feedback
-Draft opportunity list
+Polish UI interactions
