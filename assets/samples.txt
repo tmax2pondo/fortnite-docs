@@ -1,12 +1,1 @@
-Note decision log
-Review revenue data
-Outline documentation gaps
-Draft retro notes
-Record prize details
-Draft staging plan
-Check localization files
-Note shadow test
-Note DNS changes
-Summarize feedback loops
-Capture monitoring gaps
 Record feedback cycle
