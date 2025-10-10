@@ -9,3 +9,4 @@ Note shadow test
 Note DNS changes
 Summarize feedback loops
 Capture monitoring gaps
+Record feedback cycle
