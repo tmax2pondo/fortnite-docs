@@ -1,9 +1,1 @@
-Adjust retry logic
-Log daily progress
-Note legal risks
-Outline documentation gaps
-Write outcome summary
-Summarize candidate profiles
-Update collaboration doc
-Summarize contingency plan
-Check TLS configuration
+Note campaign results
