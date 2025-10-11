@@ -1,11 +1,1 @@
-Record gradual rollout
-Note investment options
-Record competitor moves
-Note integrity checks
-List technical debts
-Draft support script
-Update proof-of-concept
-Plan oncall shifts
-Note provider options
-Note latency spikes
-Record benchmark outcomes
+Note configuration changes
