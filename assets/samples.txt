@@ -1,1 +1,1 @@
-Adjust retry logic
+Summarize anonymization steps
