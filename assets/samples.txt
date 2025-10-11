@@ -1,2 +1,3 @@
 Summarize war room chat
 Record feature votes
+Record certification status
