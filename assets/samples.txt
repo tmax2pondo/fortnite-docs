@@ -6,3 +6,4 @@ List technical debts
 Draft support script
 Update proof-of-concept
 Plan oncall shifts
+Note provider options
