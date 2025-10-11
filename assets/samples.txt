@@ -2,3 +2,4 @@ Record gradual rollout
 Note investment options
 Record competitor moves
 Note integrity checks
+List technical debts
