@@ -3,3 +3,4 @@ Note investment options
 Record competitor moves
 Note integrity checks
 List technical debts
+Draft support script
