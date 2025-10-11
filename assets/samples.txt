@@ -1,14 +1,1 @@
-Record engagement stats
-Record competitor moves
-Add more documentation notes
-List hypothesis tests
-Record infra costs
-Draft UX improvements
-Record steering notes
-List resource needs
-Check delivery follow-up
-Summarize KPIs
-Brainstorm feature ideas
-Reevaluate requirements
-Record engagement stats
-Note deprecated functions
+Update legal references
