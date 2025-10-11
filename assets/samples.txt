@@ -2,3 +2,4 @@ Summarize industry news
 Note innovation backlog
 Check shipment status
 Update session rules
+Update compatibility notes
