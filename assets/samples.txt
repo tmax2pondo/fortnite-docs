@@ -1,3 +1,4 @@
 Log regression issues
 Draft quarterly report
 Draft export compliance
+Summarize validation data
