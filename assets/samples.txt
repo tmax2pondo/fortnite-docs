@@ -1,1 +1,2 @@
 Note configuration changes
+Update release notes
