@@ -4,3 +4,4 @@ Add more documentation notes
 List hypothesis tests
 Record infra costs
 Draft UX improvements
+Record steering notes
