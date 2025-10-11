@@ -1,3 +1,4 @@
 Summarize quota usage
 Clarify design goals
 Record hackathon ideas
+Note registry updates
