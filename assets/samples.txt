@@ -1,2 +1,3 @@
 Record procurement steps
 List resource needs
+Update compatibility notes
