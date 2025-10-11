@@ -1,6 +1,1 @@
-Create new test cases
-Record key metrics
-Review revenue data
-Review MFA adoption
-Update FAQ section
-Update collaboration doc
+Note configuration changes
