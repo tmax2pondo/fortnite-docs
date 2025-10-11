@@ -1,3 +1,1 @@
-Update logging sinks
-Outline documentation gaps
-Update portfolio deck
+Document hotfix steps
