@@ -3,3 +3,4 @@ Analyze customer data
 Update AUC results
 Draft sales strategy
 Summarize workshop notes
+Schedule publishing plan
