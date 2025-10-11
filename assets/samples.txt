@@ -1,2 +1,3 @@
 Note configuration changes
 Update release notes
+Summarize launch steps
