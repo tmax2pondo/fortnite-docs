@@ -1,2 +1,3 @@
 Record gradual rollout
 Note investment options
+Record competitor moves
