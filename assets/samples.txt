@@ -1,3 +1,1 @@
-Note identity checks
-Summarize testing report
-Summarize litigation notes
+Adjust retry logic
