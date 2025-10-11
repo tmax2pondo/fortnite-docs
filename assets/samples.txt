@@ -2,3 +2,4 @@ Summarize anonymization steps
 Draft experiment log
 Note training epochs
 Record HR initiatives
+Note accessibility gaps
