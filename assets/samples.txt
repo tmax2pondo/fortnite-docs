@@ -3,3 +3,4 @@ Draft experiment log
 Note training epochs
 Record HR initiatives
 Note accessibility gaps
+Record stock counts
