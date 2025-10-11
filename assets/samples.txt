@@ -1,1 +1,2 @@
 Summarize permission gaps
+Document retry policy
