@@ -1,3 +1,1 @@
-Summarize SIEM setup
-Update collaboration doc
-Draft marketing blurb
+Summarize quota usage
