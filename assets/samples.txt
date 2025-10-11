@@ -1,2 +1,3 @@
 Record engagement stats
 Record competitor moves
+Add more documentation notes
