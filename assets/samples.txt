@@ -1,7 +1,1 @@
-Summarize anonymization steps
-Draft experiment log
-Note training epochs
-Record HR initiatives
-Note accessibility gaps
-Record stock counts
-Summarize QA audits
+Summarize permission gaps
