@@ -4,3 +4,4 @@ Record competitor moves
 Note integrity checks
 List technical debts
 Draft support script
+Update proof-of-concept
