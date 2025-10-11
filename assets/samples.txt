@@ -1,3 +1,4 @@
 Adjust retry logic
 Log daily progress
 Note legal risks
+Outline documentation gaps
