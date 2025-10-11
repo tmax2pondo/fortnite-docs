@@ -6,3 +6,4 @@ Record labeling guide
 Capture retention risks
 Summarize version bumps
 Update changelog with details
+Summarize journalist list
