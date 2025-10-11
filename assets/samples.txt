@@ -1,3 +1,4 @@
 Note campaign results
 Note pass/fail ratio
 Record validation scores
+Check export rules
