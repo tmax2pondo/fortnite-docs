@@ -9,3 +9,4 @@ List resource needs
 Check delivery follow-up
 Summarize KPIs
 Brainstorm feature ideas
+Reevaluate requirements
