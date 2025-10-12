@@ -17,3 +17,4 @@ Draft upsell campaign
 Update CDN rules
 Draft sponsorship deals
 Record key rotation plan
+Review performance budgets
