@@ -2,3 +2,4 @@ Investigate performance bottleneck
 Draft opportunity list
 Update dropout rate
 Note trend shifts
+Summarize adoption metrics
