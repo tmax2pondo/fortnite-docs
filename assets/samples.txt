@@ -1,8 +1,1 @@
-Record expense items
-Schedule publishing plan
-Summarize trade risks
-Summarize journalist list
-Record HR initiatives
-Document key decisions
-Add more documentation notes
-Summarize industry news
+Record engagement stats
