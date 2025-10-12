@@ -2,3 +2,4 @@ Record expense items
 Schedule publishing plan
 Summarize trade risks
 Summarize journalist list
+Record HR initiatives
