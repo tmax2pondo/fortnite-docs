@@ -3,3 +3,4 @@ Note alignment checks
 Summarize KPIs
 Draft staging plan
 Analyze customer data
+Draft packaging guide
