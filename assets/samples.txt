@@ -5,3 +5,4 @@ Record license info
 List shipping costs
 List influencer mentions
 Draft forum summary
+Review lessons learned
