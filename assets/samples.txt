@@ -2,3 +2,4 @@ Plan team retro
 Note trending topics
 Summarize caching results
 Draft release checklist
+Note winner list
