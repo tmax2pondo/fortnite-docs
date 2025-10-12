@@ -2,3 +2,4 @@ Review architecture decisions
 Note accessibility gaps
 Log post-launch issues
 Update cross-team docs
+Summarize product goals
