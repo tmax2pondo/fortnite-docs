@@ -1,3 +1,4 @@
 Update dispute outcomes
 Update test matrix
 Note latency spikes
+Record license info
