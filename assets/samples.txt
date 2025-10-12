@@ -12,3 +12,4 @@ List booth designs
 Update reproducibility logs
 Summarize product goals
 Plan outreach tasks
+Check anomaly alerts
