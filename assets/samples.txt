@@ -1,2 +1,1 @@
-Note firewall configs
-Summarize exec summary
+Note lessons learned
