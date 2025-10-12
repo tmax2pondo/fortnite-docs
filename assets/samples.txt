@@ -5,3 +5,4 @@ Draft staging plan
 Analyze customer data
 Draft packaging guide
 Draft contest plan
+Check ISO documents
