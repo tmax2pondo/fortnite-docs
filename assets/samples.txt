@@ -8,3 +8,4 @@ Draft contest plan
 Check ISO documents
 Update board minutes
 Draft migration checklist
+Update recognition board
