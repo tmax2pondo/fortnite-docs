@@ -1,5 +1,1 @@
-Update annotation tool
-Record progress KPIs
-List cluster configs
-Draft weekly digest
-Update mentoring plan
+Update dispute outcomes
