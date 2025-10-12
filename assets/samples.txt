@@ -1,3 +1,4 @@
 Note lessons learned
 Record event calendar
 Record import duties
+Check build artifacts
