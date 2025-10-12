@@ -15,3 +15,4 @@ Plan outreach tasks
 Check anomaly alerts
 Record CSS tweaks
 Summarize velocity trend
+Check benchmark scores
