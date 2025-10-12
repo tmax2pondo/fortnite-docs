@@ -2,3 +2,4 @@ Update style guide
 Note audit trail
 Update contact list
 Review lessons learned
+Summarize risks identified
