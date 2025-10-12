@@ -1,3 +1,4 @@
 Draft pseudonymization plan
 List governance items
 Note integrity checks
+Summarize regularization notes
