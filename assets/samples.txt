@@ -6,3 +6,4 @@ Summarize risks identified
 Capture SWOT notes
 Summarize uptime data
 Record load test data
+Summarize caching results
