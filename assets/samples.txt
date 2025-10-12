@@ -1,1 +1,2 @@
 Review architecture decisions
+Note accessibility gaps
