@@ -1,16 +1,1 @@
-Note coverage scores
-List rotation schedule
-Record certificate renewals
-Track timeline adjustments
-Check TLS configuration
-Review lessons learned
-Summarize version bumps
-Track library updates
-Update fleet schedule
-Draft experiment results
-Schedule next sprint planning
-Summarize top requests
-Summarize last meeting notes
-Record key rotation plan
-Record prototype feedback
-Summarize thank-you notes
+Draft failover plan
