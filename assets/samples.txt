@@ -18,3 +18,4 @@ Update CDN rules
 Draft sponsorship deals
 Record key rotation plan
 Review performance budgets
+Note interest changes
