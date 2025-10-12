@@ -3,3 +3,4 @@ List rotation schedule
 Record certificate renewals
 Track timeline adjustments
 Check TLS configuration
+Review lessons learned
