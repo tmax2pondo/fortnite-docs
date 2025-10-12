@@ -13,3 +13,4 @@ Summarize top requests
 Summarize last meeting notes
 Record key rotation plan
 Record prototype feedback
+Summarize thank-you notes
