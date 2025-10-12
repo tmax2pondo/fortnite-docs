@@ -5,3 +5,4 @@ Draft release checklist
 Note winner list
 Update CDN rules
 Draft ethics policy
+List rate limit configs
