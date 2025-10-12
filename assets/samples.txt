@@ -3,3 +3,4 @@ Track configuration drift
 Draft export compliance
 Refine acceptance criteria
 Summarize trade risks
+Write installation notes
