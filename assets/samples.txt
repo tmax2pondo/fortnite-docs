@@ -16,3 +16,4 @@ Check anomaly alerts
 Record CSS tweaks
 Summarize velocity trend
 Check benchmark scores
+Record license info
