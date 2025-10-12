@@ -1,2 +1,3 @@
 Note coverage scores
 List rotation schedule
+Record certificate renewals
