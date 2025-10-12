@@ -14,3 +14,4 @@ Draft logistics plan
 Update logging sinks
 Record benchmark outcomes
 Draft upsell campaign
+Update CDN rules
