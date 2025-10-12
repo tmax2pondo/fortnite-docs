@@ -7,3 +7,4 @@ Draft packaging guide
 Draft contest plan
 Check ISO documents
 Update board minutes
+Draft migration checklist
