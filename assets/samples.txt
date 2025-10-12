@@ -1,10 +1,1 @@
-Update style guide
-Note audit trail
-Update contact list
-Review lessons learned
-Summarize risks identified
-Capture SWOT notes
-Summarize uptime data
-Record load test data
-Summarize caching results
-Draft staging plan
+Note coverage scores
