@@ -2,3 +2,4 @@ Note configuration changes
 Note improvement ideas
 Refine SEO checklist
 Note DPA clauses
+Record engagement stats
