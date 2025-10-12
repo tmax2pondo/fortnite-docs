@@ -1,8 +1,1 @@
-Review architecture decisions
-Note accessibility gaps
-Log post-launch issues
-Update cross-team docs
-Summarize product goals
-Check delivery follow-up
-Note deprecation warnings
-Note design refresh
+Update session rules
