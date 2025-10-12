@@ -3,3 +3,4 @@ Record hackathon ideas
 Plan capacity increase
 Note toggle plan
 Record labeling guide
+Update infra diagram
