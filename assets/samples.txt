@@ -7,3 +7,4 @@ Write installation notes
 Review monitoring setup
 Update SSL chain
 Verify API endpoints
+Draft PR highlights
