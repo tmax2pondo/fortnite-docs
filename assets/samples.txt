@@ -1,10 +1,1 @@
-Plan team retro
-Note trending topics
-Summarize caching results
-Draft release checklist
-Note winner list
-Update CDN rules
-Draft ethics policy
-List rate limit configs
-Draft testimonials list
-Update tracking board
+Update annotation tool
