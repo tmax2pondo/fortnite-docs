@@ -1,9 +1,1 @@
-Check delivery follow-up
-Log post-launch issues
-Expand integration tests
-Update supply data
-Record OKR sync
-Review pod limits
-Note decision log
-Record F1 score
-Record OKR sync
+Review architecture decisions
