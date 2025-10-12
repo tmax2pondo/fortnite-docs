@@ -6,3 +6,4 @@ Record labeling guide
 Update infra diagram
 Note threshold breaches
 Polish UI interactions
+Draft migration checklist
