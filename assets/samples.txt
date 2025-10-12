@@ -20,3 +20,4 @@ Record key rotation plan
 Review performance budgets
 Note interest changes
 Update alerting rules
+Note suspicious patterns
