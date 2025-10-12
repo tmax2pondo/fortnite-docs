@@ -3,3 +3,4 @@ List governance items
 Note integrity checks
 Summarize regularization notes
 Summarize key takeaways
+Log mitigation steps
