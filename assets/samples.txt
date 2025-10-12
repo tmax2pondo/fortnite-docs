@@ -4,3 +4,4 @@ Summarize trade risks
 Summarize journalist list
 Record HR initiatives
 Document key decisions
+Add more documentation notes
