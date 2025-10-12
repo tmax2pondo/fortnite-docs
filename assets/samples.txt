@@ -7,3 +7,4 @@ Capture SWOT notes
 Summarize uptime data
 Record load test data
 Summarize caching results
+Draft staging plan
