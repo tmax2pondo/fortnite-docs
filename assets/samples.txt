@@ -10,3 +10,4 @@ Draft migration checklist
 Plan outreach tasks
 List booth designs
 Update reproducibility logs
+Summarize product goals
