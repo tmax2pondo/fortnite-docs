@@ -1,2 +1,1 @@
-Draft integration plan
-Check TLS configuration
+Summarize key takeaways
