@@ -1,2 +1,3 @@
 Summarize zone updates
 Review WAF settings
+Schedule publishing plan
