@@ -1,17 +1,1 @@
-Summarize key takeaways
-Update privacy notice
-Summarize brand sentiment
-Note overfit warning
-Start new iteration of the project
-Note trending topics
-Track training sessions
-Check API gateway
-Note deprecated functions
-Brainstorm feature ideas
-Record gradual rollout
-List password policies
-Draft social post plan
-Plan cashflow forecast
-Summarize key takeaways
-Record expense items
-Note training epochs
+Record treasury notes
