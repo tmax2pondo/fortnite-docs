@@ -9,3 +9,4 @@ Capture SWOT notes
 Summarize rollout success
 Review monitoring setup
 Document retry policy
+Update kill switch
