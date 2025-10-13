@@ -6,3 +6,4 @@ Start new iteration of the project
 Note trending topics
 Track training sessions
 Check API gateway
+Note deprecated functions
