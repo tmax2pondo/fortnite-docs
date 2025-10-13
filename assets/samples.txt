@@ -6,3 +6,4 @@ Update FAQ section
 List pending approvals
 Record CI/CD pipeline
 Capture SWOT notes
+Summarize rollout success
