@@ -1,1 +1,2 @@
 Brainstorm feature ideas
+Add alternative approaches
