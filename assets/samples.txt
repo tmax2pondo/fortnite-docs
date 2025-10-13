@@ -7,3 +7,4 @@ List pending approvals
 Record CI/CD pipeline
 Capture SWOT notes
 Summarize rollout success
+Review monitoring setup
