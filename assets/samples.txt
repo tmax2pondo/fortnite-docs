@@ -8,3 +8,4 @@ Track training sessions
 Check API gateway
 Note deprecated functions
 Brainstorm feature ideas
+Record gradual rollout
