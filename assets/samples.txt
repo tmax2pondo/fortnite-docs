@@ -7,3 +7,4 @@ Summarize PCI items
 Record checksum values
 Update dropout rate
 Record prize details
+Polish UI interactions
