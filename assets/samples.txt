@@ -6,3 +6,4 @@ Update status of tasks
 Summarize PCI items
 Record checksum values
 Update dropout rate
+Record prize details
