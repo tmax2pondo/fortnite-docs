@@ -8,3 +8,4 @@ Note reorder points
 Note sprint outcome
 Draft escalation doc
 Update SOC reports
+Record auth logs
