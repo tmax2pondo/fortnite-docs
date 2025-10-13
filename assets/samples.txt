@@ -1,2 +1,3 @@
 List governance items
 Record license info
+Draft onboarding checklist
