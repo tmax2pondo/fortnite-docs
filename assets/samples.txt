@@ -6,3 +6,4 @@ Review escalation paths
 Record restore attempt
 Draft testimonials list
 Recheck boundary cases
+Note provider options
