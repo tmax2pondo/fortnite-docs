@@ -4,3 +4,4 @@ Draft opportunity list
 Record sign-off notes
 Note DNS changes
 List DR procedures
+Note reorder points
