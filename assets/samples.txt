@@ -1,5 +1,1 @@
-Summarize zone updates
-Review WAF settings
-Schedule publishing plan
-Summarize hyperparam runs
-Record user stories
+Brainstorm feature ideas
