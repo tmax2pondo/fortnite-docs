@@ -2,3 +2,4 @@ Brainstorm feature ideas
 Add alternative approaches
 Draft opportunity list
 Record sign-off notes
+Note DNS changes
