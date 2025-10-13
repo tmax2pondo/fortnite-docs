@@ -1,4 +1,1 @@
-List governance items
-Record license info
-Draft onboarding checklist
-Summarize workshop notes
+Summarize zone updates
