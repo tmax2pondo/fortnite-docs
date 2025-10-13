@@ -3,3 +3,4 @@ Update privacy notice
 Summarize brand sentiment
 Note overfit warning
 Start new iteration of the project
+Note trending topics
