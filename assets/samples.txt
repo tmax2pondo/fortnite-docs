@@ -11,3 +11,4 @@ Review monitoring setup
 Document retry policy
 Update kill switch
 List legal holds
+Plan workshop agenda
