@@ -1,3 +1,4 @@
 Record conversion data
 Draft reproducibility plan
 Update redundancy notes
+Collect metrics for dashboard
