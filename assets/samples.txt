@@ -8,3 +8,4 @@ Record checksum values
 Update dropout rate
 Record prize details
 Polish UI interactions
+Summarize employee feedback
