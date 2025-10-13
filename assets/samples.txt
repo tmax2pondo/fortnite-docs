@@ -14,3 +14,4 @@ Draft social post plan
 Plan cashflow forecast
 Summarize key takeaways
 Record expense items
+Note training epochs
