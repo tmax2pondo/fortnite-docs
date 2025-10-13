@@ -3,3 +3,4 @@ Log mitigation steps
 Record OKR sync
 Log strategic initiatives
 Update status of tasks
+Summarize PCI items
