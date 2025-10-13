@@ -5,3 +5,4 @@ Record sign-off notes
 Note DNS changes
 List DR procedures
 Note reorder points
+Note sprint outcome
