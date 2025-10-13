@@ -1,12 +1,1 @@
-Brainstorm feature ideas
-Add alternative approaches
-Draft opportunity list
-Record sign-off notes
-Note DNS changes
-List DR procedures
-Note reorder points
-Note sprint outcome
-Draft escalation doc
-Update SOC reports
-Record auth logs
-Note toggle plan
+Record conversion data
