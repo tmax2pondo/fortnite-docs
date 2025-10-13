@@ -7,3 +7,4 @@ List DR procedures
 Note reorder points
 Note sprint outcome
 Draft escalation doc
+Update SOC reports
