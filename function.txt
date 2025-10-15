@@ -6,3 +6,4 @@ Update infra diagram
 Summarize employee feedback
 Investigate error patterns
 Draft error codes
+Summarize exec summary
